@@ -5,8 +5,8 @@
 
 * [Locust2520](https://github.com/Locust2520)
 * `<Redacted>`
-* [Erwan Kessler](mailto:erwan.kessler@telecomnancy.net)
-* [Yann Meyer](https://github.com/YannMey)
+* [Erwan Kessler](https://github.com/erwan-kessler/)
+* [Yann Meyer](mailto:yann.meyer1@protonmail.com)
 
 ## Structure du dépôt
 
